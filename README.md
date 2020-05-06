@@ -1,2 +1,2 @@
 # tech_karo
-Countries(flag task) is published at https://github.com/sabilahafeez/tech_karo.git
+Countries(flag task) is published at  https://sabilahafeez.github.io/tech_karo/
